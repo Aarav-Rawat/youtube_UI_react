@@ -72,10 +72,10 @@ const Sidebar = ({menuClicked,setcategory,category}) => {
         <div className="flex items-center gap-3 text-xl mt-2">
           <img
             className="w-7 h-7 rounded-[50%]"
-            src="https://qph.cf2.quoracdn.net/main-qimg-0d28f748b98ef42f41a3d56731ec3e9b"
+            src="https://static.wixstatic.com/media/4ac546_4d08c9bb530248d7b2f2d64e79303ff1~mv2.png/v1/fill/w_560,h_540,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Full%20Color%20Logo.png"
             alt=""
           />
-          <span>{menuClicked?'Shiv':''}</span>
+          <span>{menuClicked?'MrBeast':''}</span>
         </div>
       </div>
     </div>

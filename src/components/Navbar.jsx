@@ -35,7 +35,7 @@ const Navbar = ({ setmenuClicked }) => {
         <IoNotifications className="cursor-pointer text-[30px]" />
         <img
           className="w-10 h-10 rounded-[50%] cursor-pointer"
-          src="https://i.pinimg.com/736x/71/99/4a/71994a42e8c890d3408705d7d4461303.jpg"
+          src="https://static.wixstatic.com/media/4ac546_4d08c9bb530248d7b2f2d64e79303ff1~mv2.png/v1/fill/w_560,h_540,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Full%20Color%20Logo.png"
           alt=""
         />
       </div>
